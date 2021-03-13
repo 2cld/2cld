@@ -1,2 +1,3 @@
 # 2cld
-github pages site
+
+[2cld documents](./docs/)
