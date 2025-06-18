@@ -1,3 +1,19 @@
 # Documents for 2cld.net
 
 2cld uses [netstack](https://netstack.org/docs/) useage patterns
+
+- [cf.2cld.net](https://cf.2cld.net/)
+- [sl.2cld.net](https://sl.2cld.net/)
+- [wf.2cld.net](https://wf.2cld.net/)
+
+
+- [ai.2cld.net](https://ai.2cld.net/)
+- [tv.2cld.net](https://tv.2cld.net/)
+
+- [gh.2cld.net](https://gh.2cld.net/)
+
+- [fletcher-motor-co.2cld.net](https://fletcher-motor-co.2cld.net/)
+- [th-twig.2cld.net](https://th-twig.2cld.net/)
+- [trees-aes.2cld.net](https://trees-aes.2cld.net/)
+
+- github [https://github.com/2cld](https://github.com/2cld)
