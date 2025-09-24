@@ -5,4 +5,4 @@
 ---
 ---
 
-[2cld quick](./docs/quick/)
+[2cld quick](./docs/quick)
