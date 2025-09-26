@@ -2,11 +2,11 @@
 
 | [cf-cat9me ct](https://one.dash.cloudflare.com/830c41d5976453f0c03f34d4f765b229/networks/tunnels) cf hv url | service [zt gh](https://my.zerotier.com/network/d5e5fb65371eb4a4) |
 |---|---|
-| [https://traefik.cat9.me](https://traefik.cat9.me) | [_traefik_](https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install) portal [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhb](https://10.147.17.176:9090/)->[traefik](172.18.0.2) |
-| [https://portainer.cat9.me](https://portainer.cat9.me) | portainer [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhb](https://10.147.17.176:9090/)->[portainer](172.18.0.7) |
-| [https://gitea.cat9.me](https://gitea.cat9.me) | gitea [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhb](https://10.147.17.176:9090/)->[gitea](172.18.0.6) |
-| [https://nginx.cat9.me](https://nginx.cat9.me) | nginx [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhb](https://10.147.17.176:9090/)->[nginx](172.18.0.4) |
-| [https://netbox.cat9.me](https://netbox.cat9.me) | netbox [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhb](https://10.147.17.176:9090/)->[netbox](172.18.0.8) |
+| [https://traefik.cat9.me](https://traefik.cat9.me) | [_traefik_](https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install) portal [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhv](https://10.147.17.176:9090/)->[traefik](172.18.0.2) |
+| [https://portainer.cat9.me](https://portainer.cat9.me) | portainer [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhv](https://10.147.17.176:9090/)->[portainer](172.18.0.7) |
+| [https://gitea.cat9.me](https://gitea.cat9.me) | gitea [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhv](https://10.147.17.176:9090/)->[gitea](172.18.0.6) |
+| [https://nginx.cat9.me](https://nginx.cat9.me) | nginx [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhv](https://10.147.17.176:9090/)->[nginx](172.18.0.4) |
+| newservice [https://newservice.cat9.me](https://newservice.cat9.me) | newservice [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhv](https://10.147.17.176:9090/)->[newservice](172.18.0.x) |
 
 | [wf-2cld ct](https://one.dash.cloudflare.com/830c41d5976453f0c03f34d4f765b229/networks/tunnels) wf sg2 url | service [zt gh](https://my.zerotier.com/network/d5e5fb65371eb4a4) |
 |---|---|
