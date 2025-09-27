@@ -17,7 +17,7 @@
 
 | [sl-2cld ct](https://one.dash.cloudflare.com/830c41d5976453f0c03f34d4f765b229/networks/tunnels) sl hv url | service [zt gh](https://my.zerotier.com/network/d5e5fb65371eb4a4) |
 |---|---|
-| [https://traefik.2cld.com](https://traefik.2cld.com) |  [__traefik__](https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install) portal [cflare](https://dash.cloudflare.com/)->[slwinll-hv](10.147.17.219)->[mg2](10.147.17.135)->[traefik](172.18.0.??) |
-| [https://portainer.2cld.com](https://portainer.2cld.com) | [__portainer__](https://netstack.org/docs/lan/compute/docker/docker-portal-portainer) portal [cflare](https://dash.cloudflare.com/)->[slwinll-hv](10.147.17.219)->[mg2](10.147.17.135)->[portainer](172.18.0.??) |
-| [https://gitea.2cld.com](https://gitea.2cld.com) | [__gitea__](https://netstack.org/docs/lan/compute/docker/docker-portal-gitea) portal  [cflare](https://dash.cloudflare.com/)->[slwinll-hv](10.147.17.198)->[mg2](10.147.17.135)->[gitea](172.18.0.??) |
+| [https://traefik.2cld.com](https://traefik.2cld.com) |  [__traefik__](https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install) portal [cflare](https://dash.cloudflare.com/)->[slwinll-hv](10.147.17.219)->[mg2](https://10.147.17.135:9090/)->[traefik](172.18.0.??) |
+| [https://portainer.2cld.com](https://portainer.2cld.com) | [__portainer__](https://netstack.org/docs/lan/compute/docker/docker-portal-portainer) portal [cflare](https://dash.cloudflare.com/)->[slwinll-hv](10.147.17.219)->[mg2](https://10.147.17.135:9090/)->[portainer](172.18.0.??) |
+| [https://gitea.2cld.com](https://gitea.2cld.com) | [__gitea__](https://netstack.org/docs/lan/compute/docker/docker-portal-gitea) portal  [cflare](https://dash.cloudflare.com/)->[slwinll-hv](10.147.17.219)->[mg2](https://10.147.17.135:9090/)->[gitea](172.18.0.??) |
 
