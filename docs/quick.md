@@ -2,10 +2,11 @@
 
 | [cf-cat9me ct](https://one.dash.cloudflare.com/830c41d5976453f0c03f34d4f765b229/networks/tunnels) cf hv url | service [zt gh](https://my.zerotier.com/network/d5e5fb65371eb4a4) |
 |---|---|
-| [https://traefik.cat9.me](https://traefik.cat9.me) | [__traefik__](https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install) portal [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhv](https://10.147.17.176:9090/)->[traefik](172.18.0.2) |
-| [https://portainer.cat9.me](https://portainer.cat9.me) | [__portainer__](https://netstack.org/docs/lan/compute/docker/docker-portal-portainer) portal [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhv](https://10.147.17.176:9090/)->[portainer](172.18.0.7) |
-| [https://gitea.cat9.me](https://gitea.cat9.me) | [__gitea__](https://netstack.org/docs/lan/compute/docker/docker-portal-gitea) portal [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhv](https://10.147.17.176:9090/)->[gitea](172.18.0.6) |
-| [https://nginx.cat9.me](https://nginx.cat9.me) | [__nginx__](https://netstack.org/docs/lan/compute/docker/docker-portal-nginx) portal [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhv](https://10.147.17.176:9090/)->[nginx](172.18.0.4) |
+| [https://traefik.cat9.me](https://traefik.cat9.me) | [__traefik__](https://netstack.org/docs/lan/compute/docker/docker-portal-cloudflare-traefik-install) portal [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhv](https://10.147.17.176:9090/)->[traefik](172.18.0.4:80) |
+| [https://portainer.cat9.me](https://portainer.cat9.me) | [__portainer__](https://netstack.org/docs/lan/compute/docker/docker-portal-portainer) portal [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhv](https://10.147.17.176:9090/)->[portainer](172.18.0.2:9000) |
+| [https://gitea.cat9.me](https://gitea.cat9.me) | [__gitea__](https://netstack.org/docs/lan/compute/docker/docker-portal-gitea) portal [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhv](https://10.147.17.176:9090/)->[gitea](172.18.0.5:3000) |
+| [https://nginx.cat9.me](https://nginx.cat9.me) | [__nginx__](https://netstack.org/docs/lan/compute/docker/docker-portal-nginx) portal [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhv](https://10.147.17.176:9090/)->[nginx](172.18.0.6:80) |
+| [https://n8n.cat9.me](https://n8n.cat9.me) | [__n8n__](https://netstack.org/docs/lan/compute/docker/docker-portal-n8n) portal [cflare](https://dash.cloudflare.com/)->[ct-hv](10.147.17.219)->[cp.nsdockerhv](https://10.147.17.176:9090/)->[n8n](172.18.0.8:5678) |
 
 | [wf-2cld ct](https://one.dash.cloudflare.com/830c41d5976453f0c03f34d4f765b229/networks/tunnels) wf sg2 url | service [zt gh](https://my.zerotier.com/network/d5e5fb65371eb4a4) |
 |---|---|
