@@ -14,10 +14,12 @@
 
 | [wf-2cld ct](https://one.dash.cloudflare.com/830c41d5976453f0c03f34d4f765b229/networks/tunnels) wf sg2 url | service [zt gh](https://my.zerotier.com/network/d5e5fb65371eb4a4) |
 |---|---|
-| [https://metube.klopfenstein.org](https://metube.klopfenstein.org) | [__metube__](https://netstack.org/docs/lan/compute/docker/docker-portal-metube) portal [cflare](https://dash.cloudflare.com/)->[cfDVR](https://10.147.17.209:5000)->[metube](http://192.168.9.2:8081) |
 | [https://gitea.klopfenstein.org](https://gitea.klopfenstein.org) | [__gitea__](https://netstack.org/docs/lan/compute/docker/docker-portal-gitea) portal [cflare](https://dash.cloudflare.com/)->[cfDVR](https://10.147.17.209:5000)->[gitea](http://192.168.9.2:3000) |
+| [https://metube.klopfenstein.org](https://metube.klopfenstein.org) | [__metube__](https://netstack.org/docs/lan/compute/docker/docker-portal-metube) portal [cflare](https://dash.cloudflare.com/)->[cfDVR](https://10.147.17.209:5000)->[metube](http://192.168.9.2:8081) |
 | [https://sg.klopfenstein.org](https://sg.klopfenstein.org) | [__sg__](https://netstack.org/docs/lan/storage/synology) portal [cflare](https://dash.cloudflare.com/)->[cfDVR](https://10.147.17.209:5000)->[cfDVR-portal](http://192.168.9.2:5000) |
+| [https://cg2.klopfenstein.org](https://cg2.klopfenstein.org) | [__cg2__](https://netstack.org/docs/lan/compute/proxmox) portal [cflare](https://dash.cloudflare.com/)->[cg2-portal](http://192.168.9.3:8006) |
 | [https://jp.klopfenstein.org](https://jp.klopfenstein.org) | [__dav__](https://netstack.org/docs/lan/storage/synology) portal [cflare](https://dash.cloudflare.com/)->[cfDVR](https://10.147.17.209:5000)->[cfDVR-dav](http://192.168.9.2:5005) |
+| [https://ssh.klopfenstein.org](https://ssh.klopfenstein.org) | [__ssh__](https://netstack.org/docs/) portal [cflare](https://dash.cloudflare.com/)->[sg-ssh-portal](http://192.168.9.2:2020) |
 
 
 | [sl-2cld ct](https://one.dash.cloudflare.com/830c41d5976453f0c03f34d4f765b229/networks/tunnels) sl hv url | service [zt gh](https://my.zerotier.com/network/d5e5fb65371eb4a4) |
